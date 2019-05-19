@@ -1,4 +1,5 @@
-[
+{
+"cities": [
     {
         "city": "The Hague", 
         "admin": "Zuid-Holland", 
@@ -55,3 +56,4 @@
         "population": "398053"
     }
 ]
+}
